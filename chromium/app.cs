@@ -9,7 +9,6 @@
 #:property UseWindowsForms=true
 #:property ApplicationIcon=app.ico
 
-
 #:package CefSharp.Common.NETCore@141.0.110
 #:package CefSharp.WinForms.NETCore@141.0.110
 
