@@ -1,5 +1,0 @@
-[55620:55536:0114/145415.519:WARNING:chrome\browser\signin\account_consistency_mode_manager.cc:74] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[55620:55536:0114/145415.539:WARNING:chrome\browser\extensions\external_registry_loader_win.cc:232] Error observing HKLM: 5
-[51012:36684:0114/145417.578:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
-[51012:36684:0114/145417.578:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
-[55620:55536:0114/145417.639:ERROR:base\observer_list.h:300] Check failed: observers_.empty(). 
