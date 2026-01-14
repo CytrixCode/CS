@@ -1,1 +1,3 @@
-
+git clone https://github.com/CytrixCode/CS.git
+cd cs/winform
+dotnet run app.cs
