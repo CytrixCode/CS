@@ -7,7 +7,7 @@
 #:property TargetFramework=net10.0-windows
 #:property OutputType=winexe
 #:property UseWindowsForms=true
-#:property ApplicationIcon=cs.ico
+#:property ApplicationIcon=app.ico
 
 using System;
 using System.Drawing;
@@ -24,7 +24,7 @@ public class MainWindow : Form
         Text = "C# Window";
         try
         {
-            Icon = new Icon($"{Environment.CurrentDirectory}\\cs.ico");
+            Icon = new Icon($"app.ico");
         }
         catch (Exception ex)
         {
