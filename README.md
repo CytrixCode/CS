@@ -1,3 +1,3 @@
 # CS   C#
 
-- dotnet run winform.cs
+- dotnet run winform/app.cs
