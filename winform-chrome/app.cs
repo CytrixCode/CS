@@ -34,7 +34,7 @@ public class Chromium : Form
     private ChromiumWebBrowser? cwb;
     public Chromium()
     {
-        Text = "C# Chromium Browser";
+        Text = "C# Chrome Browser";
         Icon = new Icon($"app.ico");
 
         Width = 1280;
